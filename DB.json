@@ -1,0 +1,27 @@
+[
+    {
+        "Caption": "\u0417\u0430\u043c\u0435\u0442\u043a\u0430 1",
+        "CollectionEdit": [
+            "[Type = TypeEdit.create] 2024-04-04 21:32:32.227228",
+            "[Type = TypeEdit.edit] 2024-04-04 21:34:10.852808"
+        ],
+        "Description": "\u0422\u043e\u0436\u0435 \u0438\u043d\u0442\u0435\u0440\u0435\u0441\u043d\u044b\u0439 \u0442\u0435\u043a\u0441\u0442 \u0437\u0430\u043c\u0435\u0442\u043a\u0438",
+        "Index": 1
+    },
+    {
+        "Caption": "\u0417\u0430\u043c\u0435\u0442\u043a\u0430 2",
+        "CollectionEdit": [
+            "[Type = TypeEdit.create] 2024-04-04 21:32:52.525025"
+        ],
+        "Description": "\u0422\u043e\u0436\u0435 \u0438\u043d\u0442\u0435\u0440\u0435\u0441\u043d\u044b\u0439 \u0442\u0435\u043a\u0441\u0442 \u0437\u0430\u043c\u0435\u0442\u043a\u0438",
+        "Index": 2
+    },
+    {
+        "Caption": "\u0417\u0430\u043c\u0435\u0442\u043a\u0430 3",
+        "CollectionEdit": [
+            "[Type = TypeEdit.create] 2024-04-04 21:33:44.700579"
+        ],
+        "Description": "\u0422\u0435\u043a\u0441\u0442 \u0437\u0430\u043c\u0435\u0442\u043a\u0438 3 ",
+        "Index": 3
+    }
+]
